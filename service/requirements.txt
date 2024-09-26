@@ -1,0 +1,4 @@
+pymongo
+watchdog
+jsonschema
+requests
